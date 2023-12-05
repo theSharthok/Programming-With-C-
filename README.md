@@ -1,3 +1,3 @@
 # Programming-With-C-
 
-This repository contains to my programming practice with c language 
+This repository contains to  programming practice with C language 
